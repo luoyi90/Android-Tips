@@ -69,8 +69,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 ### Adapter
 
 1. [Android简便通用的SimpleBaseAdapter](http://www.stormzhang.com/androidtips/2014/08/31/android-common-simplebaseadapter/)
-2. [Android数据适配器(Adapter)优化：使用高效的ViewHolder](http://stackvoid.com/using-adapter-in-efficiency-way/)
-3. [Android 快速开发系列 打造万能的ListView GridView 适配器](http://blog.csdn.net/lmj623565791/article/details/38902805/)
+2. [Android 快速开发系列 打造万能的ListView GridView 适配器](http://blog.csdn.net/lmj623565791/article/details/38902805/)
 
 ### AIDL
 
@@ -79,6 +78,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 3. [android跨进程通信(IPC): 使用AIDL](http://blog.csdn.net/singwhatiwanna/article/details/17041691)
 4. [Android中的跨进程通信的实现（一）——远程调用过程和aidl](http://blog.csdn.net/notice520/article/details/8135600)
 5. [Android Studio下如何配置AIDL文件](http://chenqichao.me/2014/05/13/003-Android-Studio-AIDL/)
+
+### AlarmManager
+
+1. [Android AlarmManager实现不间断轮询服务](http://blog.csdn.net/ryantang03/article/details/9317499)
 
 ### Android-Async-Http
 
@@ -116,6 +119,13 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [AndroidAnnotations框架入门教程一之介绍](http://zhenhappy.github.io/2015/10/11/Android-Annotations-1-Introduce.html)
 2. [How to stop an animation (cancel() does not work)](http://stackoverflow.com/questions/4112599/how-to-stop-an-animation-cancel-does-not-work)
 
+### Android 6.0 
+
+1. [Android6.0运行时权限简介](http://unclechen.github.io/2016/03/05/Android6.0%E8%BF%90%E8%A1%8C%E6%97%B6%E6%9D%83%E9%99%90%E7%AE%80%E4%BB%8B/)
+2. [Android 6.0 - 动态权限管理的解决方案](http://www.jianshu.com/p/dbe4d37731e6)
+3. [聊一聊Android 6.0的运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)
+4. [Android6.0权限系统](https://github.com/CharonChui/AndroidNote/blob/master/Android%E5%8A%A0%E5%BC%BA/Android6.0%E6%9D%83%E9%99%90%E7%B3%BB%E7%BB%9F.md)
+
 ---
 
 ## B
@@ -139,6 +149,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ## C
 
+### Canvas
+
+1. [Android利用canvas画各种图形(点、直线、弧、圆、椭圆、文字、矩形、多边形、曲线、圆角矩形)](http://blog.csdn.net/rhljiayou/article/details/7212620)
+
 ### Callback
 
 1. [How to Define Callbacks in Android?](http://stackoverflow.com/questions/3398363/how-to-define-callbacks-in-android)
@@ -150,6 +164,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Android5.0新控件CardView的介绍和使用](http://www.cnblogs.com/tianzhijiexian/p/4067308.html)
 2. [Android CardView Example](http://www.truiton.com/2015/03/android-cardview-example/)
 3. [Android CardView Widget – Add Cards to a List using RecyclerView](http://techlovejump.com/android-cardview-widget-example-add-to-list-using-recyclerview/)
+4. [CardView在API 21以下的圆角效果处理](http://www.jianshu.com/p/07097b562acb)
 
 ### Configuration Change
 
@@ -180,8 +195,15 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 5. [Android网络编程 --断点续传下载文件](http://blog.csdn.net/wwj_748/article/details/20146869)
 6. [android 多线程断点续传下载 一](http://blog.csdn.net/shimiso/article/details/6763664)
 
+### DownloadManager
+
+1. [Android DownloadManager 的使用](http://www.jianshu.com/p/5b1ad56b9cef)
+
+
 ### Dagger
 
+1. [Dagger on Android－Dagger2详解](http://blog.fidroid.com/post/android/dagger-on-android-dagger2xiang-jie)
+2. [使用Dagger 2进行依赖注入](http://codethink.me/2015/08/06/dependency-injection-with-dagger-2/)
 
 
 ---
@@ -208,6 +230,19 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 6. [Android实战技巧：Fragment的那些坑](http://toughcoder.net/blog/2015/04/30/android-fragment-the-bad-parts/)
 7. [android Fragments详解四:管理fragment](http://www.cnblogs.com/mybkn/articles/2455138.html)
 8. [Android Fragment 嵌套使用(Nested Fragments)](http://blog.csdn.net/top_code/article/details/37343075)
+9. [Fragment MyFragment not attached to Activity](http://stackoverflow.com/questions/10919240/fragment-myfragment-not-attached-to-activity)
+10. [Fragment全解析系列（一）：那些年踩过的坑](http://www.jianshu.com/p/d9143a92ad94)
+11. [onActivityResult is not being called in Fragment](http://stackoverflow.com/questions/6147884/onactivityresult-is-not-being-called-in-fragment)
+
+### Fresco
+
+1. [Fresco学习笔记](http://blog.happyhls.me/2015/08/03/fresco%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
+2. [why use fresco datasource to get bitmap is empty](http://stackoverflow.com/questions/30477827/why-use-fresco-datasource-to-get-bitmap-is-empty)
+3. [Always cannot show the images when loading lots of bitmaps on screen](https://github.com/facebook/fresco/issues/256)
+4. [SimpleDraweeView did not recycled in RecyclerView](https://github.com/facebook/fresco/issues/414)
+5. [Fresco-Facebook的图片加载框架的使用](http://www.voidcn.com/blog/chwnpp2/article/p-5761715.html)
+6. [Resizing and Rotating](http://frescolib.org/docs/resizing-rotating.html#_)
+
 
 ### FlowLayout - 自定义流布局
 
@@ -257,6 +292,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Android热更新实现原理](http://blog.csdn.net/lzyzsd/article/details/49843581#0-tsina-1-98317-397232819ff9a47a7b7e80a40613cfe1)
 2. [Android App 线上热修复方案](http://lirenlong.github.io/hotfix/)
 3. [Nuwa](https://github.com/jasonross/Nuwa)
+4. [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
+5. [安卓App热补丁动态修复技术介绍](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=1&srcid=1106Imu9ZgwybID13e7y2nEi#wechat_redirect)
 
 ### Handler
 
@@ -289,7 +326,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
 2. [Java8系列 - Java8简明指南](https://biezhi.me/article/java8-tutorial.html)
 
-### Json
+### JSON
 
 1. [Android系列---JSON数据解析](http://www.cnblogs.com/xiaoluo501395377/p/3446605.html)
 2. [android json解析及简单例子](http://blog.csdn.net/lilu_leo/article/details/7000077)
@@ -306,13 +343,23 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Kotlin
 
-1. [Kotlin Programming Language](https://github.com/JetBrains/kotlin)
-2. [Kotlin中文站点](http://kotlinlang.cn/)
-3. [使用Kotlin进行Android开发](http://ragnraok.github.io/using-kotlin-to-write-android-app.html)
+1. [Using Kotlin for Android Development](http://itangqi.me/2017/03/28/using-kotlin-for-android-development/)
+2. [Kotlin: Java 6 废土中的一线希望](https://realm.io/cn/news/droidcon-michael-pardo-kotlin/)
+3. [Kotlin 语言高级安卓开发入门](https://realm.io/cn/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
+4. [Kotlin的黑魔法](http://blog.inico.me/2016/10/26/Kotlin-Magic-Java-Swift#.WONK-nR972R)
+5. [Learn Kotlin with Keddit](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
+6. [Coding Android Apps in Kotlin](https://code.tutsplus.com/series/coding-android-apps-in-kotlin--cms-1119)
+7. [Kotlin 一门强大的语言](https://kymjs.com/column/kotlin.html)
+8. [kotlin 学习](https://www.feel88.cn/2016/09/21/kotlin%E5%AD%A6%E4%B9%A0/)
+9. [Kotlin从入门到『放弃』系列 视频教程](https://github.com/enbandari/Kotlin-Tutorials)
 
 ---
 
 ## L
+
+### largeHeap
+
+1. [探究android:largeHeap](http://droidyue.com/blog/2015/08/01/dive-into-android-large-heap/index.html)
 
 ### ListFragment
 
@@ -399,6 +446,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Extracting Colors to a Palette with Android Lollipop](https://www.bignerdranch.com/blog/extracting-colors-to-a-palette-with-android-lollipop/)
 2. [Android Lollipop 新特性 - Palette](https://github.com/troyliu0105/Android-Tips/blob/master/Utils/Content/Android_Lollipop_%E6%96%B0%E7%89%B9%E6%80%A7-Palette.md)
 
+### PopupWindow
+
+1. [http://wuxiaolong.me/2015/09/02/SharePopupWindow/](http://wuxiaolong.me/2015/09/02/SharePopupWindow/)
+
 ### Preference
 
 1. [PreferenceActivity（首选项设置页）](http://blog.csdn.net/plussoft/article/details/9993759)
@@ -417,6 +468,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 1. [React Native for Android 入门老虎](http://www.race604.com/react-native-for-android-start/)
 2. [React Native For Android初体验](http://www.jianshu.com/p/847a54e0c385)
+3. [React Native for Android 实践 -- 实现知乎日报客户端](http://www.race604.com/react-native-android-practice/)
+4. [React Native Android 踩坑之旅](http://www.alloyteam.com/2015/10/react-native-android-steps-on-tour/)
 
 ### Reference
 
@@ -435,6 +488,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Retrofit
 
+1. [我对Retrofit的认识](http://blog.fangjie.info/2016/07/14/%E6%88%91%E5%AF%B9Retrofit%E7%9A%84%E8%AE%A4%E8%AF%86/)
 
 
 ### RxJava
@@ -442,6 +496,11 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [RxJava: Reactive Extensions for the JVM](https://github.com/ReactiveX/RxJava)
 2. [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 3. [NotRxJava懒人专用指南](http://www.devtf.cn/?p=323)
+4. [小试RxJava](http://kescoode.com/try-rxjava/)
+
+### RxAndroid
+
+1. [IllegalStateException onError](https://github.com/ReactiveX/RxAndroid/issues/79)
 
 ### RandomAccessFile
 
@@ -472,6 +531,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Android SharedPreferences使用以及原理详解](http://blog.csdn.net/wxyyxc1992/article/details/17222841)
 2. [Google为何这样设计OnSharedPreferenceChangeListener](http://droidyue.com/blog/2014/11/29/why-onsharedpreferencechangelistener-was-not-called/)
 3. [SharedPreferences在多进程中的使用及注意事项](http://zmywly8866.github.io/2015/09/09/sharedpreferences-in-multiprocess.html)
+4. [What's the difference between commit() and apply() in Shared Preference](http://stackoverflow.com/questions/5960678/whats-the-difference-between-commit-and-apply-in-shared-preference)
 
 ### SparseArray
 
@@ -538,6 +598,13 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 2. [Don’t Test Blindly: The Right Methods for Unit Testing Your Java Apps](http://zeroturnaround.com/rebellabs/dont-test-blindly-the-right-methods-for-unit-testing-your-java-apps/)
 3. [在Android Studio中进行单元测试和UI测试](http://www.jianshu.com/p/03118c11c199)
 
+### URL Routing - 路由协议
+
+1. [Android路由框架设计与实现](http://www.sixwolf.net/blog/2016/03/23/Android%E8%B7%AF%E7%94%B1%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1/)
+2. [UrlRouter路由框架的设计](http://zhengxiaoyong.me/2016/04/24/UrlRouter%E8%B7%AF%E7%94%B1%E6%A1%86%E6%9E%B6%E7%9A%84%E8%AE%BE%E8%AE%A1/)
+3. [需要给activity跳转增加路由么？](https://github.com/android-cn/android-discuss/issues/383)
+4. [通过 URL 打开 Activity](http://caodongping.me/2016/04/11/%E9%80%9A%E8%BF%87URL%E6%89%93%E5%BC%80Activity/#more)
+
 ---
 
 ## V
@@ -549,6 +616,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 3. [【移动开发】Android中Fragment+ViewPager的配合使用](http://smallwoniu.blog.51cto.com/3911954/1322746)
 4. [Android 手把手教您自定义ViewGroup（一）本文出自:【张鸿洋的博客】](http://blog.csdn.net/lmj623565791/article/details/38339817)
 5. [Android的坑之ScrollView嵌套ViewPager](http://hellsam.com/2015/01/29/Android%E7%9A%84%E5%9D%91%E4%B9%8BScrollView%E5%B5%8C%E5%A5%97ViewPager/)
+6. [IllegalStateException: The application's PagerAdapter changed the adapter's content without calling PagerAdapter#notifyDataSetChanged](http://stackoverflow.com/questions/22943658/illegalstateexception-the-applications-pageradapter-changed-the-adapters-cont)
 
 ### View
 
@@ -593,6 +661,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 7. [理解WebKit和Chromium: Android 4.4 上的Chromium WebView](http://blog.csdn.net/milado_nju/article/details/17098399)
 8. [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
 9. [Android WebView的Js对象注入漏洞解决方案](http://blog.csdn.net/leehong2005/article/details/11808557)
+10. [Android WebView播放视频问题](http://www.jianshu.com/p/d6d379e3f41d)
 
 ---
 
@@ -625,6 +694,10 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 1. [Android Studio发布项目到Jcenter](http://blog.saymagic.cn/2015/02/16/release-library-to-jcenter.html)
 2. [将Library上传到Jcenter](http://www.jianshu.com/p/0ba8960f80a9)
 3. [使用Gradle发布aar项目到JCenter仓库](http://www.cnblogs.com/qianxudetianxia/p/4322331.html)
+
+### JitPack
+
+1. [优雅的发布Android开源库(论JitPack的优越性)](https://github.com/GcsSloop/AndroidNote/blob/master/Course/ReleaseLibraryByJitPack.md)
 
 ### 反编译
 
@@ -694,6 +767,12 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 16. [How to convert a color integer to a hex String in Android?](http://stackoverflow.com/questions/6539879/how-to-convert-a-color-integer-to-a-hex-string-in-android)
 17. [IllegalArgumentException: width and height must be > 0 while loading Bitmap from View](http://stackoverflow.com/questions/17605662/illegalargumentexception-width-and-height-must-be-0-while-loading-bitmap-from)
 18. [Unable to instantiate application com.android.tools.fd.runtime.BootstrapApplication ?](http://stackoverflow.com/questions/33967703/unable-to-instantiate-application-com-android-tools-fd-runtime-bootstrapapplicat)
+19. [Unknown URL content://downloads/my_downloads](http://blog.csdn.net/mackkill/article/details/52003858)
+20. [Android开发之实现多次点击事件](http://blog.csdn.net/fengshizty/article/details/41675923)
+21. [Android完美解决输入框EditText隐藏密码打勾显示密码问题](http://blog.csdn.net/a2bgeek/article/details/9705305)
+22. [Android获取手机型号,系统版本,App版本号等信息](http://blog.csdn.net/lfdfhl/article/details/9070183)
+23. [你需要知道的Android拍照适配方案](http://www.jianshu.com/p/f269bcda335f)
+24. [Can't create handler inside thread that has not called Looper.prepare()](http://stackoverflow.com/questions/3875184/cant-create-handler-inside-thread-that-has-not-called-looper-prepare)
 
 ---
 
@@ -715,3 +794,4 @@ Born in 1992, now a student of Southeast University, master of software engineer
 I will graduate in June 2017, expect the internship or full-time job in Android or iOS.
 
 If you have any questions or want to make friends with me, please feel free to contact me : [imtangqi#gmail.com](mailto:imtangqi@gmail.com "Welcome to contact me")  
+
